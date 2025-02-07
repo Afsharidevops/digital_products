@@ -3,6 +3,10 @@ Django==4.2
 djangorestframework==3.15.2
 pytz==2025.1
 
+# Photo & Image
+pillow==11.1.0
+
+
 # Authentication
 
 
